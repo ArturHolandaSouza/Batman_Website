@@ -191,7 +191,7 @@ span{
     align-items: center;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 850px) {
     
     .footer-navigation {
         display: block;
@@ -245,6 +245,7 @@ span{
     }
 
 }
+
 
 .comentarios {
     display: flex;
